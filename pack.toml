@@ -1,0 +1,13 @@
+name = "Hyperion Community Server Next"
+author = "Clamatus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "adb2ce85b45946bbb51a93483b5d2bb1170426479831c586eb66c89466061f24"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"

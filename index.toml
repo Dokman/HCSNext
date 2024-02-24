@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "c9317229f74d872289489388e3620a197345c92ff9a29038c622b67433b28190"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5d150d97c8d988b4df69b7d68629f8fc180d69bb4b6bd2d65e166bd576d1d471"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "de3dc407a6b6f0ee061ebdd0f9b43f05153368f5f7a51ebf9a549c1700010c23"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "8d119de59119fb90a5b078d807507c2436d0b0ea37404a82ae33d982a137d588"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "e977bad265ade9e41d8702b33c75339353b282e13bf17c75300aa0a0908368f2"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "fdb31ea5cf8fd4fa22b22d8685cc232d625011c107775a649209259aed8e65ce"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "38661a47c314ae6840d51e3ea184833c325c072d514812f0c92fdf6e111bbebf"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "2eb95c8af40609e34422e9df785fccbfbd7740639fb5ac06a49f47ff1c970160"
+metafile = true
