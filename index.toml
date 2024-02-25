@@ -1,21 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
-metafile = true
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "c9317229f74d872289489388e3620a197345c92ff9a29038c622b67433b28190"
 metafile = true
@@ -53,9 +38,4 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "2eb95c8af40609e34422e9df785fccbfbd7740639fb5ac06a49f47ff1c970160"
-metafile = true
-
-[[files]]
-file = "mods/watchdog-anti-cheat.pw.toml"
-hash = "0237ec7f7d6e8d957f40382fd25d5139fea22018816f2b34c3562afec6121b2e"
 metafile = true
