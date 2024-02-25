@@ -1,0 +1,13 @@
+name = "[Let's Do] Brewery"
+filename = "letsdo-brewery-forge-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8d73bb998888b76229c1b9594a3c2e0f91d9327"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5114349
+project-id = 971636
